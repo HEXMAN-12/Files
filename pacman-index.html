@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pacman Game</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="start-screen">
+    <h1>Pacman Game</h1>
+    <button id="start-button">Start Game</button>
+  </div>
+  
+  <div id="game-container" style="display:none;">
+    <div id="pacman"></div>
+    <div id="ghost-container"></div>
+    <div id="dots-container"></div>
+    <div id="power-pellet-container"></div>
+    <div id="score">Score: <span id="score-value">0</span></div>
+    <div id="level">Level: <span id="level-value">1</span></div>
+  </div>
+
+  <div id="game-over-screen" style="display:none;">
+    <h1>Game Over</h1>
+    <p id="final-score">Final Score: <span id="final-score-value">0</span></p>
+    <button id="restart-button">Restart Game</button>
+  </div>
+
+  <audio id="eat-sound" src="eat.mp3"></audio>
+  <audio id="game-over-sound" src="game_over.mp3"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
