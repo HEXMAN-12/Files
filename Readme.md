@@ -10,3 +10,6 @@ Contributions are NOT accepted for this repository, as it is SOLELY for testing 
 
 ## License
 This repository is under NO specific license. Use at your own PERIL.
+
+https://github.com/HEXMAN-12/Files/tree/eb784eeb9762e667e77c02beeca6e7414581ec14/DB%20Lectures
+
