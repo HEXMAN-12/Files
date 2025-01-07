@@ -40,7 +40,7 @@ def generate_readme(directory):
         content += "\n"
 
     # Add the generation timestamp
-    content += f"\n*Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n"
+    content += f"\n*Last Updated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n"
 
     # Add the disclaimer
     content += disclaimer
