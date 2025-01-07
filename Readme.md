@@ -61,7 +61,7 @@ _Last Updated on 2025-01-08 02:20:15_
 
 # Testing Repository
 
-**Disclaimer: This repository is STRICTLY for testing purposes ONLY. Any content contained within it is ABSOLUTELY not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+**Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutely not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
 
 <!-- <br>
 <p align="center">
