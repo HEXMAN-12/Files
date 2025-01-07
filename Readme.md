@@ -61,4 +61,10 @@ _Last Updated on 2025-01-07 12:01:56_
 
 # Testing Repository
 
-**Disclaimer: This repository is STRICTLY for testing purposes ONLY. Any content contained within it is ABSOLUTELY not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository. USE AT YOUR OWN RISK.**
+**Disclaimer: This repository is STRICTLY for testing purposes ONLY. Any content contained within it is ABSOLUTELY not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+
+<!-- <br>
+<p align="center">
+
+  <img src="./jaun.png" alt="jaun">
+</p> -->
