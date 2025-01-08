@@ -59,6 +59,29 @@ This repository contains all course files, including lectures and resources.
 
 _Last Updated on 2025-01-08 02:20:15_
 
+---
+
+## Exam Schedule
+
+| **Date**             | **Time**      | **Subject**                                                |
+| -------------------- | ------------- | ---------------------------------------------------------- |
+| **Sat, 11 Jan 2025** | 09:00 - 12:00 | CY351L - Web Application Security Lab                      |
+|                      | 13:00 - 16:00 | CY458L - Cyber Security for AI & AI for Cyber Security Lab |
+| **Sun, 12 Jan 2025** | 09:00 - 12:00 | CS230L - Database Systems Lab                              |
+|                      | 09:00 - 12:00 | CS426L - Parallel and Distributed Computing Lab            |
+|                      | 13:00 - 16:00 | CS230 - Database Systems                                   |
+| **Mon, 13 Jan 2025** | 09:00 - 12:00 | CY458 - Cyber Security for AI & AI for Cyber Security      |
+| **Tue, 14 Jan 2025** | 13:00 - 16:00 | CS332 - Design and Analysis of Algorithms                  |
+| **Wed, 15 Jan 2025** | 09:00 - 12:00 | CS230L - Database Systems Lab                              |
+|                      | 13:00 - 16:00 | CY352 - Cloud Computing Security                           |
+| **Thu, 16 Jan 2025** | 09:00 - 12:00 | CS426 - Parallel and Distributed Computing                 |
+| **Fri, 17 Jan 2025** | 13:00 - 16:00 | CY243 - Penetration Testing                                |
+| **Sat, 18 Jan 2025** | 09:00 - 12:00 | CY243L - Penetration Testing Lab                           |
+|                      | 17:00 - 20:00 | CY351 - Web Application Security                           |
+| **Sun, 19 Jan 2025** | 09:00 - 12:00 | FL321 - Foreign Language: French                           |
+
+---
+
 # Testing Repository
 
 **Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutely not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
