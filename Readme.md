@@ -9,10 +9,12 @@ This repository contains all course files, including lectures and resources.
 - [DBMS-Indexes.pdf](./DB-Lectures/DBMS-Indexes.pdf)
 - [DBMS-Normalization-I.pdf](./DB-Lectures/DBMS-Normalization-I.pdf)
 - [DBMS-Normalization-II.pdf](./DB-Lectures/DBMS-Normalization-II.pdf)
+- [DBMS-Queries.pdf](./DB-Lectures/DBMS-Queries.pdf)
 - [DBMS-Relational-Algebra.pdf](./DB-Lectures/DBMS-Relational-Algebra.pdf)
 - [DBMS-Relational-Model-I.pdf](./DB-Lectures/DBMS-Relational-Model-I.pdf)
 - [DBMS-Relational-Model-II.pdf](./DB-Lectures/DBMS-Relational-Model-II.pdf)
 - [DBMS-SQL.pdf](./DB-Lectures/DBMS-SQL.pdf)
+- [DBMS-StoredProcedures-Transactions.pdf](./DB-Lectures/DBMS-StoredProcedures-Transactions.pdf)
 
 ## French
 
