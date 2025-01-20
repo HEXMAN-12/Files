@@ -16,7 +16,7 @@ This repository contains all course files, including lectures and resources.
 - [DBMS-SQL.pdf](./DB-Lectures/DBMS-SQL.pdf)
 - [DBMS-StoredProcedures-Transactions.pdf](./DB-Lectures/DBMS-StoredProcedures-Transactions.pdf)
 
-## French
+## French Lectures
 
 - [French-Basics.pdf](./French/French-Basics.pdf)
 - [French-Finals.pdf](./French/French-Finals.pdf)
@@ -88,8 +88,8 @@ _[Click here to view datasheet](./date-sheet.jpg)_
 
 **Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutely not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
 
-<!-- <br>
+<br>
 <p align="center">
 
   <img src="./jaun.png" alt="jaun">
-</p> -->
+</p>
