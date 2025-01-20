@@ -93,5 +93,5 @@ _[Click here to view datasheet](./date-sheet.jpg)_
 <br>
 <p align="center">
 
-  <img src="./jaun.png" alt="jaun">
+  <img src="assets/jaun.png" alt="jaun">
 </p>
