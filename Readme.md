@@ -21,6 +21,8 @@ This repository contains all course files, including lectures and resources.
 - [French-Basics.pdf](./French/French-Basics.pdf)
 - [French-Finals.pdf](./French/French-Finals.pdf)
 - [french.md](./French/french.md)
+- [french pdf](./French/french.pdf)
+- [Google Docs](https://docs.google.com/document/d/e/2PACX-1vQn0x6ou6f0TS1WTq2hMZ0FvGLbl4FItek76YA5R0HCRyMj47A37f691UhXbJJ3dPAucRaQAOXz2UiL/pub)
 
 ## PD Lectures
 
