@@ -26,8 +26,11 @@ jobs:
           python generate_readme.py
 
       - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }} # Use the secret token
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || (git commit -m "Auto-update README with file index" && git push)
+          git diff --staged --quiet || (git commit -m "Auto-update README with file index" && \
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/HEXMAN-12/Files.git)
