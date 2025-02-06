@@ -1,0 +1,45 @@
+import os
+from datetime import datetime
+
+repo_name = "Parhai"
+ignored_files = {".git", "generate_readme.py", "README.md"}
+ignored_dirs = {".git", ".github"}
+
+def generate_file_index():
+    directory_structure = {}
+
+    for root, dirs, files in os.walk("."):
+        dirs[:] = [d for d in dirs if d not in ignored_dirs]  # Ignore specific folders
+
+        if root == ".":
+            continue  # Skip root folder itself
+
+        relative_root = root.lstrip("./")
+        if relative_root not in directory_structure:
+            directory_structure[relative_root] = []
+
+        for file in sorted(files):
+            if file not in ignored_files:
+                directory_structure[relative_root].append(file)
+
+    return directory_structure
+
+def generate_readme():
+    file_index = generate_file_index()
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(f"# {repo_name}\n\n")
+        f.write("This repository contains all course files, including lectures and resources.\n\n")
+
+        for folder, files in sorted(file_index.items()):
+            f.write(f"## {folder.replace('-', ' ').title()}\n\n")
+            for file in files:
+                file_path = f"./{folder}/{file}"
+                f.write(f"- [{file}]({file_path})\n")
+            f.write("\n")
+
+        f.write(f"_Last Updated on {timestamp}_\n")
+
+if __name__ == "__main__":
+    generate_readme()
