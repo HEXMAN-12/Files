@@ -90,8 +90,8 @@ _[Click here to view datasheet](./date-sheet.jpg)_
 
 **Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutely not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
 
-<br>
+
 <p align="center">
 
-  <img src="assets/jaun.png" alt="jaun">
+  
 </p>
