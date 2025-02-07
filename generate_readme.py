@@ -1,9 +1,16 @@
 import os
 from datetime import datetime
+import urllib.parse
 
 repo_name = "Parhai"
-ignored_files = {".git", "generate_readme.py", "README.md"}
-ignored_dirs = {".git", ".github"}
+ignored_files = {".git", "generate_readme.py", "README.md", "Readmetemp.md", ".DS_Store", "Thumbs.db", "generate-readme.sh", "jaun.png"}
+ignored_dirs = {".git", ".github", "__pycache__", ".vscode", "assets"}
+
+disclaimer = """
+# Testing Repository
+
+**Disclaimer: This repository is STRICTLY for testing purposes ONLY. Any content contained within it is ABSOLUTELY not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+"""
 
 def generate_file_index():
     directory_structure = {}
@@ -28,18 +35,19 @@ def generate_readme():
     file_index = generate_file_index()
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open("Readme.md", "w", encoding="utf-8") as f:
         f.write(f"# {repo_name}\n\n")
         f.write("This repository contains all course files, including lectures and resources.\n\n")
 
         for folder, files in sorted(file_index.items()):
             f.write(f"## {folder.replace('-', ' ').title()}\n\n")
             for file in files:
-                file_path = f"./{folder}/{file}"
+                file_path = f"./{folder}/{urllib.parse.quote(file)}"
                 f.write(f"- [{file}]({file_path})\n")
             f.write("\n")
 
         f.write(f"_Last Updated on {timestamp}_\n")
+        f.write(disclaimer)
 
 if __name__ == "__main__":
     generate_readme()
