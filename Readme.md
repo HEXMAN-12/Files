@@ -2,7 +2,7 @@
 
 This repository contains all course files, including lectures and resources.
 
-## DB-Lectures
+## Db Lectures
 
 - [DBMS-Database-Triggers.pdf](./DB-Lectures/DBMS-Database-Triggers.pdf)
 - [DBMS-Database-Views.pdf](./DB-Lectures/DBMS-Database-Views.pdf)
@@ -16,28 +16,27 @@ This repository contains all course files, including lectures and resources.
 - [DBMS-SQL.pdf](./DB-Lectures/DBMS-SQL.pdf)
 - [DBMS-StoredProcedures-Transactions.pdf](./DB-Lectures/DBMS-StoredProcedures-Transactions.pdf)
 
-## French Lectures
+## French
 
 - [French-Basics.pdf](./French/French-Basics.pdf)
 - [French-Finals.pdf](./French/French-Finals.pdf)
+- [french.docx](./French/french.docx)
 - [french.md](./French/french.md)
-- [french pdf](./French/french.pdf)
-- [Google Docs](https://docs.google.com/document/d/e/2PACX-1vQn0x6ou6f0TS1WTq2hMZ0FvGLbl4FItek76YA5R0HCRyMj47A37f691UhXbJJ3dPAucRaQAOXz2UiL/pub)
 
-## PD Lectures
+## Pd Lectures
 
-- [Week-5.pdf](./PD Lectures/Week-5.pdf)
-- [Week-6.pdf](./PD Lectures/Week-6.pdf)
-- [Week-7.pdf](./PD Lectures/Week-7.pdf)
-- [Week-9.pdf](./PD Lectures/Week-9.pdf)
 - [Week-10.pdf](./PD Lectures/Week-10.pdf)
 - [Week-11.pdf](./PD Lectures/Week-11.pdf)
 - [Week-12.pdf](./PD Lectures/Week-12.pdf)
 - [Week-13.pdf](./PD Lectures/Week-13.pdf)
 - [Week-15 (1).pdf](./PD Lectures/Week-15 (1).pdf)
 - [Week-15 (2).pdf](./PD Lectures/Week-15 (2).pdf)
+- [Week-5.pdf](./PD Lectures/Week-5.pdf)
+- [Week-6.pdf](./PD Lectures/Week-6.pdf)
+- [Week-7.pdf](./PD Lectures/Week-7.pdf)
+- [Week-9.pdf](./PD Lectures/Week-9.pdf)
 
-## PT Lectures
+## Pt Lectures
 
 - [Lecture-1.pdf](./PT Lectures/Lecture-1.pdf)
 - [Lecture-2.pdf](./PT Lectures/Lecture-2.pdf)
@@ -52,46 +51,17 @@ This repository contains all course files, including lectures and resources.
 ## Web Lectures
 
 - [Lecture-1.pdf](./Web Lectures/Lecture-1.pdf)
+- [Lecture-10-Injecting OS Commands.pdf](./Web Lectures/Lecture-10-Injecting OS Commands.pdf)
+- [Lecture-11-XSS.pdf](./Web Lectures/Lecture-11-XSS.pdf)
+- [Lecture-12-Attacking Users.pdf](./Web Lectures/Lecture-12-Attacking Users.pdf)
 - [Lecture-2.pdf](./Web Lectures/Lecture-2.pdf)
 - [Lecture-3.pdf](./Web Lectures/Lecture-3.pdf)
 - [Lecture-4.pdf](./Web Lectures/Lecture-4.pdf)
 - [Lecture-5.pdf](./Web Lectures/Lecture-5.pdf)
 - [Lecture-8-Data store.pdf](./Web Lectures/Lecture-8-Data store.pdf)
-- [Lecture-10-Injecting OS Commands.pdf](./Web Lectures/Lecture-10-Injecting OS Commands.pdf)
-- [Lecture-11-XSS.pdf](./Web Lectures/Lecture-11-XSS.pdf)
-- [Lecture-12-Attacking Users.pdf](./Web Lectures/Lecture-12-Attacking Users.pdf)
 
-_Last Updated on 2025-01-08 02:20:15_
+## Assets
 
----
+- [jaun.png](./assets/jaun.png)
 
-## Exam Schedule
-
-| **Date**             | **Time**      | **Subject**                                                |
-| -------------------- | ------------- | ---------------------------------------------------------- |
-| **Sat, 11 Jan 2025** | 09:00 - 12:00 | CY351L - Web Application Security Lab                      |
-|                      | 13:00 - 16:00 | CY458L - Cyber Security for AI & AI for Cyber Security Lab |
-| **Sun, 12 Jan 2025** | 09:00 - 12:00 | CS230L - Database Systems Lab                              |
-|                      | 09:00 - 12:00 | CS426L - Parallel and Distributed Computing Lab            |
-|                      | 13:00 - 16:00 | CS230 - Database Systems                                   |
-| **Mon, 13 Jan 2025** | 09:00 - 12:00 | CY458 - Cyber Security for AI & AI for Cyber Security      |
-| **Tue, 14 Jan 2025** | 13:00 - 16:00 | CS332 - Design and Analysis of Algorithms                  |
-| **Wed, 15 Jan 2025** | 09:00 - 12:00 | CS230L - Database Systems Lab                              |
-|                      | 13:00 - 16:00 | CY352 - Cloud Computing Security                           |
-| **Thu, 16 Jan 2025** | 09:00 - 12:00 | CS426 - Parallel and Distributed Computing                 |
-| **Fri, 17 Jan 2025** | 13:00 - 16:00 | CY243 - Penetration Testing                                |
-| **Sat, 18 Jan 2025** | 09:00 - 12:00 | CY243L - Penetration Testing Lab                           |
-|                      | 17:00 - 20:00 | CY351 - Web Application Security                           |
-| **Sun, 19 Jan 2025** | 09:00 - 12:00 | FL321 - Foreign Language: French                           |
-
-_[Click here to view datasheet](./date-sheet.jpg)_
-
-# Testing Repository
-
-**Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutely not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
-
-
-<p align="center">
-
-  
-</p>
+_Last Updated on 2025-02-07 18:11:23_
