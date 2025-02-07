@@ -4,11 +4,15 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "**/*"
+      - "!README.md" # Exclude README.md changes
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Auto-update README')" # Skip if last commit was from bot
 
     steps:
       - name: Checkout Repository
