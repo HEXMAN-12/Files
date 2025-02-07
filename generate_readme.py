@@ -35,7 +35,7 @@ def generate_readme():
     file_index = generate_file_index()
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    with open("Readme.md", "w", encoding="utf-8") as f:
+    with open("README.md", "w", encoding="utf-8") as f:
         f.write(f"# {repo_name}\n\n")
         f.write("This repository contains all course files, including lectures and resources.\n\n")
 
