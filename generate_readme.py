@@ -42,11 +42,9 @@ def generate_readme():
         for folder, files in sorted(file_index.items()):
             f.write(f"## {folder.replace('-', ' ').title()}\n\n")
             for file in files:
-                # Replace spaces with %20 in both the folder and file names
-                encoded_folder = urllib.parse.quote(folder)
-                encoded_file = urllib.parse.quote(file)
-                file_path = f"./{encoded_folder}/{encoded_file}"
-                f.write(f"- [{file}]({file_path})\n")
+                # Ensure both folder and file names are properly encoded
+                encoded_path = urllib.parse.quote(f"{folder}/{file}")
+                f.write(f"- [{file}](./{encoded_path})\n")
             f.write("\n")
 
         f.write(f"_Last Updated on {timestamp}_\n")
