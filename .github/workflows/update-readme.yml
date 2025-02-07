@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false # Disable default auth to use GITHUB_TOKEN
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -22,15 +24,14 @@ jobs:
           python-version: "3.x"
 
       - name: Generate README
-        run: |
-          python generate_readme.py
+        run: python generate_readme.py
 
       - name: Commit and Push Changes
         env:
-          GH_PAT: ${{ secrets.GH_PAT }} # Use the secret token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use GitHub Actions Token
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || (git commit -m "Auto-update README with file index" && \
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/HEXMAN-12/Files.git)
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
