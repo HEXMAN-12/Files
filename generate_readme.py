@@ -3,13 +3,13 @@ from datetime import datetime
 import urllib.parse
 
 repo_name = "Parhai"
-ignored_files = {".git", "generate_readme.py", "README.md", "Readmetemp.md", ".DS_Store", "Thumbs.db", "generate-readme.sh", "jaun.png"}
+ignored_files = {".git", "generate_readme.py", "README.md", "Readmetemp.md", ".DS_Store", "Thumbs.db", "generate-readme.sh"  }
 ignored_dirs = {".git", ".github", "__pycache__", ".vscode", "assets"}
 
 disclaimer = """
 # Testing Repository
 
-**Disclaimer: This repository is STRICTLY for testing purposes ONLY. Any content contained within it is ABSOLUTELY not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+**Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutel not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
 """
 
 def generate_file_index():
