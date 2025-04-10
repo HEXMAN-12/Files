@@ -7,7 +7,7 @@ ignored_files = {".git", "generate_readme.py", "README.md", "Readmetemp.md", ".D
 ignored_dirs = {".git", ".github", "__pycache__", ".vscode", "assets"}
 
 disclaimer = """
-# Testing Repository
+
 
 
 """
