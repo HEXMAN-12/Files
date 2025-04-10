@@ -9,7 +9,7 @@ ignored_dirs = {".git", ".github", "__pycache__", ".vscode", "assets"}
 disclaimer = """
 # Testing Repository
 
-**Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutel not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+
 """
 
 def generate_file_index():
