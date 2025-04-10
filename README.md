@@ -13,12 +13,13 @@ This repository contains all course files, including lectures and resources.
 
 - [AI Week 1 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%201%20Notes.pdf)
 - [AI Week 2 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%202%20Notes.pdf)
+- [AI Week 3 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%203%20Notes.pdf)
 
 ## Testing
 
 - [test.txt](./testing/test.txt)
 
-_Last Updated on 2025-04-10 16:24:03_
+_Last Updated on 2025-04-10 17:35:38_
 
 
 
