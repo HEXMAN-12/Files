@@ -14,8 +14,8 @@ This repository contains all course files, including lectures and resources.
 
 - [test.txt](./testing/test.txt)
 
-_Last Updated on 2025-04-10 15:12:16_
+_Last Updated on 2025-04-10 15:16:06_
 
 # Testing Repository
 
-**Disclaimer: This repository is strictly for testing purposes only. Any content contained within it is absolutel not to be considered as final or production-ready. I do not take any responsibility or ownership of anything in this repository.**
+
