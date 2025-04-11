@@ -8,6 +8,8 @@ This repository contains all course files, including lectures and resources.
 - [Week 2_CS340.pdf](./Artificial%20Intelligence/Week%202_CS340.pdf)
 - [Week 3_CS340.pdf](./Artificial%20Intelligence/Week%203_CS340.pdf)
 - [Week 4_CS340.pdf](./Artificial%20Intelligence/Week%204_CS340.pdf)
+- [Week 5_CS340.pdf](./Artificial%20Intelligence/Week%205_CS340.pdf)
+- [Week 6-7_CS340.pdf](./Artificial%20Intelligence/Week%206-7_CS340.pdf)
 
 ## Artificial Intelligence/Notes
 
@@ -16,7 +18,7 @@ This repository contains all course files, including lectures and resources.
 - [AI Week 3 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%203%20Notes.pdf)
 - [AI Week 4 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%204%20Notes.pdf)
 
-_Last Updated on 2025-04-11 02:15:48_
+_Last Updated on 2025-04-11 12:06:27_
 
 
 
