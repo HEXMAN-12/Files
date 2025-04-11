@@ -47,7 +47,7 @@ def generate_readme():
                 f.write(f"- [{file}](./{encoded_path})\n")
             f.write("\n")
 
-        f.write(f"_Last Updated on {timestamp}_\n")
+        f.write(f"_Last Updated on {timestamp} GMT_\n")
         f.write(disclaimer)
 
 if __name__ == "__main__":
