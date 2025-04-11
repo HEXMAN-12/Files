@@ -14,8 +14,9 @@ This repository contains all course files, including lectures and resources.
 - [AI Week 1 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%201%20Notes.pdf)
 - [AI Week 2 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%202%20Notes.pdf)
 - [AI Week 3 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%203%20Notes.pdf)
+- [AI Week 4 Notes.pdf](./Artificial%20Intelligence/Notes/AI%20Week%204%20Notes.pdf)
 
-_Last Updated on 2025-04-10 22:41:15_
+_Last Updated on 2025-04-11 02:15:48_
 
 
 
