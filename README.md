@@ -17,7 +17,16 @@ This repository contains all course files, including lectures and resources.
 - [Week 5_CS340.pdf](./Artificial%20Intelligence/Week%205_CS340.pdf)
 - [Week 6_CS340.pdf](./Artificial%20Intelligence/Week%206_CS340.pdf)
 
-_Last Updated on 2025-04-11 15:54:58 GMT_
+## Digital Forensics
+
+- [Digital Forensics Essentials.pdf](./Digital%20Forensics/Digital%20Forensics%20Essentials.pdf)
+- [Lecture 1 - Part 1.pdf](./Digital%20Forensics/Lecture%201%20-%20Part%201.pdf)
+- [Lecture 2.pdf](./Digital%20Forensics/Lecture%202.pdf)
+- [Lecture 3.pdf](./Digital%20Forensics/Lecture%203.pdf)
+- [Week 1 - ISO IEC 27037-2012.pdf](./Digital%20Forensics/Week%201%20-%20ISO%20IEC%2027037-2012.pdf)
+- [Week 2 - Digital evidence Unaddressed threats to fairness.pdf](./Digital%20Forensics/Week%202%20-%20Digital%20evidence%20Unaddressed%20threats%20to%20fairness.pdf)
+
+_Last Updated on 2025-04-15 16:30:52 GMT_
 
 
 
