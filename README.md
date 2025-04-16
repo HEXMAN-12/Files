@@ -36,6 +36,7 @@ This repository contains all course files, including lectures and resources.
 - [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/C%20-International%20Entrepreneurship%20Opportunities.pdf)
 - [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/C1%20-%204%20Dimensions%20of%20Magic.pdf)
 - [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Entrepreneurial%20Entry%20Strategies.pdf)
+- [Notes.pdf](./Entrepreneurship/Notes.pdf)
 - [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Project%20Guidelines%20-%20Spring%2025.pdf)
 
 ## Iot
@@ -43,7 +44,7 @@ This repository contains all course files, including lectures and resources.
 - [IOT-Lecture 01.pdf](./IOT/IOT-Lecture%2001.pdf)
 - [IOT-Lecture 01.pptx](./IOT/IOT-Lecture%2001.pptx)
 
-_Last Updated on 2025-04-16 23:00:50 GMT_
+_Last Updated on 2025-04-16 23:11:05 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
