@@ -8,7 +8,7 @@ ignored_dirs = {".git", ".github", "__pycache__", ".vscode", "assets"}
 
 disclaimer = """
 
-
+Click here to view [Date Sheet](Date-Sheet.jpg)
 
 """
 
