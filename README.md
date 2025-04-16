@@ -29,7 +29,21 @@ This repository contains all course files, including lectures and resources.
 - [Week 1 - ISO IEC 27037-2012.pdf](./Digital%20Forensics/Week%201%20-%20ISO%20IEC%2027037-2012.pdf)
 - [Week 2 - Digital evidence Unaddressed threats to fairness.pdf](./Digital%20Forensics/Week%202%20-%20Digital%20evidence%20Unaddressed%20threats%20to%20fairness.pdf)
 
-_Last Updated on 2025-04-16 05:31:22 GMT_
+## Entrepreneurship
+
+- [A - Entrepreneurship Foundations.pdf](./Entrepreneurship/A%20-%20Entrepreneurship%20Foundations.pdf)
+- [B - The Individual Entrepreneur.pdf](./Entrepreneurship/B%20-%20The%20Individual%20Entrepreneur.pdf)
+- [C -International Entrepreneurship Opportunities (2).pdf](./Entrepreneurship/C%20-International%20Entrepreneurship%20Opportunities%20%282%29.pdf)
+- [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/C%20-International%20Entrepreneurship%20Opportunities.pdf)
+- [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/C1%20-%204%20Dimensions%20of%20Magic.pdf)
+- [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Project%20Guidelines%20-%20Spring%2025.pdf)
+
+## Iot
+
+- [IOT-Lecture 01.pdf](./IOT/IOT-Lecture%2001.pdf)
+- [IOT-Lecture 01.pptx](./IOT/IOT-Lecture%2001.pptx)
+
+_Last Updated on 2025-04-16 17:29:03 GMT_
 
 
 
