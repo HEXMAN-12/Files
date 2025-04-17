@@ -45,8 +45,11 @@ This repository contains all course files, including lectures and resources.
 - [IOT Lecture 01 Notes.md](./IOT/IOT%20Lecture%2001%20Notes.md)
 - [IOT-Lecture 01.pdf](./IOT/IOT-Lecture%2001.pdf)
 - [IOT-Lecture 01.pptx](./IOT/IOT-Lecture%2001.pptx)
+- [IOT-Lecture 02.pdf](./IOT/IOT-Lecture%2002.pdf)
+- [IOT-Lecture 03.pdf](./IOT/IOT-Lecture%2003.pdf)
+- [IOT-Lecture 04.pdf](./IOT/IOT-Lecture%2004.pdf)
 
-_Last Updated on 2025-04-17 08:03:20 GMT_
+_Last Updated on 2025-04-17 15:42:28 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
