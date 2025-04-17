@@ -35,15 +35,19 @@ This repository contains all course files, including lectures and resources.
 - [B - The Individual Entrepreneur.pdf](./Entrepreneurship/B%20-%20The%20Individual%20Entrepreneur.pdf)
 - [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/C%20-International%20Entrepreneurship%20Opportunities.pdf)
 - [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/C1%20-%204%20Dimensions%20of%20Magic.pdf)
+- [Entrepreneurial Entry Strategies Pakistan Examples (2).pdf](./Entrepreneurship/Entrepreneurial%20Entry%20Strategies%20Pakistan%20Examples%20%282%29.pdf)
+- [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Entrepreneurial%20Entry%20Strategies.pdf)
+- [Notes.pdf](./Entrepreneurship/Notes.pdf)
 - [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Project%20Guidelines%20-%20Spring%2025.pdf)
 
 ## Iot
 
+- [IOT Lecture 01 Notes.md](./IOT/IOT%20Lecture%2001%20Notes.md)
 - [IOT-Lecture 01.pdf](./IOT/IOT-Lecture%2001.pdf)
 - [IOT-Lecture 01.pptx](./IOT/IOT-Lecture%2001.pptx)
 
-_Last Updated on 2025-04-16 19:55:46 GMT_
+_Last Updated on 2025-04-17 08:03:20 GMT_
 
 
-
+Click here to view [Date Sheet](Date-Sheet.jpg)
 
