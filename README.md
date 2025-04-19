@@ -57,13 +57,15 @@ This repository contains all course files, including lectures and resources.
 
 ## Vare
 
+- [VARE Lecture 1.pdf](./VARE/VARE%20Lecture%201.pdf)
 - [VARE Lecture 2.pdf](./VARE/VARE%20Lecture%202.pdf)
 - [VARE Lecture 3.pdf](./VARE/VARE%20Lecture%203.pdf)
 - [VARE Lecture 4.pdf](./VARE/VARE%20Lecture%204.pdf)
 - [VARE Lecture 5.pdf](./VARE/VARE%20Lecture%205.pdf)
+- [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-04-19 01:49:24 GMT_
+_Last Updated on 2025-04-19 02:53:56 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
