@@ -26,6 +26,9 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 1.pdf](./Digital%20Forensics/Lecture%201.pdf)
 - [Lecture 2.pdf](./Digital%20Forensics/Lecture%202.pdf)
 - [Lecture 3.pdf](./Digital%20Forensics/Lecture%203.pdf)
+- [Lecture 4.pdf](./Digital%20Forensics/Lecture%204.pdf)
+- [Lecture 5.pdf](./Digital%20Forensics/Lecture%205.pdf)
+- [Lecture 6.pdf](./Digital%20Forensics/Lecture%206.pdf)
 - [Week 1 - ISO IEC 27037-2012.pdf](./Digital%20Forensics/Week%201%20-%20ISO%20IEC%2027037-2012.pdf)
 - [Week 2 - Digital evidence Unaddressed threats to fairness.pdf](./Digital%20Forensics/Week%202%20-%20Digital%20evidence%20Unaddressed%20threats%20to%20fairness.pdf)
 
@@ -65,7 +68,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-04-19 02:53:56 GMT_
+_Last Updated on 2025-04-19 15:56:39 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
