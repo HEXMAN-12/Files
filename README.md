@@ -55,7 +55,15 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 4 Notes.docx](./IOT/Lecture%204%20Notes.docx)
 - [Lecture 4 Notes.pdf](./IOT/Lecture%204%20Notes.pdf)
 
-_Last Updated on 2025-04-18 00:31:11 GMT_
+## Vare
+
+- [VARE Lecture 2.pdf](./VARE/VARE%20Lecture%202.pdf)
+- [VARE Lecture 3.pdf](./VARE/VARE%20Lecture%203.pdf)
+- [VARE Lecture 4.pdf](./VARE/VARE%20Lecture%204.pdf)
+- [VARE Lecture 5.pdf](./VARE/VARE%20Lecture%205.pdf)
+- [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
+
+_Last Updated on 2025-04-19 01:49:24 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
