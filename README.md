@@ -19,16 +19,21 @@ This repository contains all course files, including lectures and resources.
 
 ## Digital Forensics
 
+- [DF Essentials Module 1-4.pdf](./Digital%20Forensics/DF%20Essentials%20Module%201-4.pdf)
 - [DF Essentials.pdf](./Digital%20Forensics/DF%20Essentials.pdf)
 - [DF Lecture 1 Notes.pdf](./Digital%20Forensics/DF%20Lecture%201%20Notes.pdf)
 - [DF Lecture 2 Notes.pdf](./Digital%20Forensics/DF%20Lecture%202%20Notes.pdf)
 - [DF Lecture 3 Notes.pdf](./Digital%20Forensics/DF%20Lecture%203%20Notes.pdf)
+- [DF Lecture 4 Notes.pdf](./Digital%20Forensics/DF%20Lecture%204%20Notes.pdf)
+- [DF Lecture 5 Notes.pdf](./Digital%20Forensics/DF%20Lecture%205%20Notes.pdf)
+- [DF Lecture 6 Notes.pdf](./Digital%20Forensics/DF%20Lecture%206%20Notes.pdf)
 - [Lecture 1.pdf](./Digital%20Forensics/Lecture%201.pdf)
 - [Lecture 2.pdf](./Digital%20Forensics/Lecture%202.pdf)
 - [Lecture 3.pdf](./Digital%20Forensics/Lecture%203.pdf)
 - [Lecture 4.pdf](./Digital%20Forensics/Lecture%204.pdf)
 - [Lecture 5.pdf](./Digital%20Forensics/Lecture%205.pdf)
 - [Lecture 6.pdf](./Digital%20Forensics/Lecture%206.pdf)
+- [Registry Hives.docx](./Digital%20Forensics/Registry%20Hives.docx)
 - [Week 1 - ISO IEC 27037-2012.pdf](./Digital%20Forensics/Week%201%20-%20ISO%20IEC%2027037-2012.pdf)
 - [Week 2 - Digital evidence Unaddressed threats to fairness.pdf](./Digital%20Forensics/Week%202%20-%20Digital%20evidence%20Unaddressed%20threats%20to%20fairness.pdf)
 
@@ -68,7 +73,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-04-19 15:56:39 GMT_
+_Last Updated on 2025-04-20 00:25:12 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
