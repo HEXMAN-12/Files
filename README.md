@@ -10,12 +10,17 @@ This repository contains all course files, including lectures and resources.
 - [AI Week 4 Notes.pdf](./Artificial%20Intelligence/AI%20Week%204%20Notes.pdf)
 - [AI Week 5 Notes.pdf](./Artificial%20Intelligence/AI%20Week%205%20Notes.pdf)
 - [AI Week 6 Notes.pdf](./Artificial%20Intelligence/AI%20Week%206%20Notes.pdf)
+- [Week 10_CS340.pdf](./Artificial%20Intelligence/Week%2010_CS340.pdf)
+- [Week 11_CS340.pdf](./Artificial%20Intelligence/Week%2011_CS340.pdf)
+- [Week 12_CS340.pdf](./Artificial%20Intelligence/Week%2012_CS340.pdf)
+- [Week 13_CS340.pdf](./Artificial%20Intelligence/Week%2013_CS340.pdf)
 - [Week 1_CS340.pdf](./Artificial%20Intelligence/Week%201_CS340.pdf)
 - [Week 2_CS340.pdf](./Artificial%20Intelligence/Week%202_CS340.pdf)
 - [Week 3_CS340.pdf](./Artificial%20Intelligence/Week%203_CS340.pdf)
 - [Week 4_CS340.pdf](./Artificial%20Intelligence/Week%204_CS340.pdf)
 - [Week 5_CS340.pdf](./Artificial%20Intelligence/Week%205_CS340.pdf)
-- [Week 6_CS340.pdf](./Artificial%20Intelligence/Week%206_CS340.pdf)
+- [Week 6-7_CS340.pdf](./Artificial%20Intelligence/Week%206-7_CS340.pdf)
+- [Week 8-9_CS340.pdf](./Artificial%20Intelligence/Week%208-9_CS340.pdf)
 
 ## Digital Forensics
 
@@ -77,7 +82,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-06-12 07:33:59 GMT_
+_Last Updated on 2025-06-12 07:37:40 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
