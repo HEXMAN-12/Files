@@ -68,10 +68,6 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 4 Notes.docx](./IOT/Lecture%204%20Notes.docx)
 - [Lecture 4 Notes.pdf](./IOT/Lecture%204%20Notes.pdf)
 
-## Sohaib Nigga
-
-- [sohaib-monitor.zip](./Sohaib%20Nigga/sohaib-monitor.zip)
-
 ## Vare
 
 - [VARE Lecture 1.pdf](./VARE/VARE%20Lecture%201.pdf)
@@ -82,7 +78,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-06-12 07:37:40 GMT_
+_Last Updated on 2025-06-12 07:41:05 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
