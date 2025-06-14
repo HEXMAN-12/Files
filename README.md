@@ -59,6 +59,9 @@ This repository contains all course files, including lectures and resources.
 - [IOT-Lecture 02.pdf](./IOT/IOT-Lecture%2002.pdf)
 - [IOT-Lecture 03.pdf](./IOT/IOT-Lecture%2003.pdf)
 - [IOT-Lecture 04.pdf](./IOT/IOT-Lecture%2004.pdf)
+- [IOT-Lecture-05.pdf](./IOT/IOT-Lecture-05.pdf)
+- [IOT-Lecture-06.pdf](./IOT/IOT-Lecture-06.pdf)
+- [IOT-Lecture-07.pdf](./IOT/IOT-Lecture-07.pdf)
 - [Lecture 1 Notes.pdf](./IOT/Lecture%201%20Notes.pdf)
 - [Lecture 2 Notes.pdf](./IOT/Lecture%202%20Notes.pdf)
 - [Lecture 3 Notes.pdf](./IOT/Lecture%203%20Notes.pdf)
@@ -74,7 +77,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-06-12 07:47:01 GMT_
+_Last Updated on 2025-06-14 00:53:52 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
