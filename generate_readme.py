@@ -1,6 +1,7 @@
 import os
 from datetime import datetime
 import urllib.parse
+import re
 
 repo_name = "Parhai"
 ignored_files = {".git", "generate_readme.py", "README.md", "Readmetemp.md", ".DS_Store", "Thumbs.db", "generate-readme.sh"  }
@@ -11,6 +12,10 @@ disclaimer = """
 Click here to view [Date Sheet](Date-Sheet.jpg)
 
 """
+
+def natural_sort_key(text):
+    """Convert a string into a list of string and number chunks for natural sorting."""
+    return [int(c) if c.isdigit() else c.lower() for c in re.split(r'(\d+)', text)]
 
 def generate_file_index():
     directory_structure = {}
@@ -25,7 +30,7 @@ def generate_file_index():
         if relative_root not in directory_structure:
             directory_structure[relative_root] = []
 
-        for file in sorted(files):
+        for file in sorted(files, key=natural_sort_key):
             if file not in ignored_files:
                 directory_structure[relative_root].append(file)
 
