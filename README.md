@@ -76,6 +76,7 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 2 Notes.pdf](./IOT/Lecture%202%20Notes.pdf)
 - [Lecture 3 Notes.pdf](./IOT/Lecture%203%20Notes.pdf)
 - [Lecture 4 Notes.pdf](./IOT/Lecture%204%20Notes.pdf)
+- [Lecture 5 Notes.pdf](./IOT/Lecture%205%20Notes.pdf)
 - [Lecture 6 Notes.pdf](./IOT/Lecture%206%20Notes.pdf)
 
 ## Vare
@@ -88,7 +89,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-06-24 04:31:06 GMT_
+_Last Updated on 2025-06-24 06:25:29 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
