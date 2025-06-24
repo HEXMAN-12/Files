@@ -10,6 +10,16 @@ This repository contains all course files, including lectures and resources.
 - [AI Week 4 Notes.pdf](./Artificial%20Intelligence/AI%20Week%204%20Notes.pdf)
 - [AI Week 5 Notes.pdf](./Artificial%20Intelligence/AI%20Week%205%20Notes.pdf)
 - [AI Week 6 Notes.pdf](./Artificial%20Intelligence/AI%20Week%206%20Notes.pdf)
+- [Hw_1 Solution.pdf](./Artificial%20Intelligence/Hw_1%20Solution.pdf)
+- [Hw_2_solution.pdf](./Artificial%20Intelligence/Hw_2_solution.pdf)
+- [Hw_3_solution.pdf](./Artificial%20Intelligence/Hw_3_solution.pdf)
+- [Hw_4_solution.pdf](./Artificial%20Intelligence/Hw_4_solution.pdf)
+- [Hw_5_solution.pdf](./Artificial%20Intelligence/Hw_5_solution.pdf)
+- [Hw_6_solution.pdf](./Artificial%20Intelligence/Hw_6_solution.pdf)
+- [Quiz 1_solution.doc](./Artificial%20Intelligence/Quiz%201_solution.doc)
+- [Quiz 2_solution.pdf](./Artificial%20Intelligence/Quiz%202_solution.pdf)
+- [Quiz 3 Solution.doc](./Artificial%20Intelligence/Quiz%203%20Solution.doc)
+- [Quiz 4_solution.pdf](./Artificial%20Intelligence/Quiz%204_solution.pdf)
 - [Week 1_CS340.pdf](./Artificial%20Intelligence/Week%201_CS340.pdf)
 - [Week 2_CS340.pdf](./Artificial%20Intelligence/Week%202_CS340.pdf)
 - [Week 3_CS340.pdf](./Artificial%20Intelligence/Week%203_CS340.pdf)
@@ -77,7 +87,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 6.pdf](./VARE/VARE%20Lecture%206.pdf)
 - [VARE Lecture 7.pdf](./VARE/VARE%20Lecture%207.pdf)
 
-_Last Updated on 2025-06-19 11:34:23 GMT_
+_Last Updated on 2025-06-22 19:02:23 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
