@@ -95,7 +95,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Lecture 12.pdf](./VARE/VARE%20Lecture%2012.pdf)
 - [VARE Lecture 13.pdf](./VARE/VARE%20Lecture%2013.pdf)
 
-_Last Updated on 2025-06-25 15:03:51 GMT_
+_Last Updated on 2025-06-25 19:57:14 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
