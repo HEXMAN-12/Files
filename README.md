@@ -54,8 +54,6 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 10 - Smart Devices Forensics.pdf](./Digital%20Forensics/Lecture%2010%20-%20Smart%20Devices%20Forensics.pdf)
 - [Lecture 11 - Social Media Forensic.pdf](./Digital%20Forensics/Lecture%2011%20-%20Social%20Media%20Forensic.pdf)
 - [Registry Hives.docx](./Digital%20Forensics/Registry%20Hives.docx)
-- [Week 1 - ISO IEC 27037-2012.pdf](./Digital%20Forensics/Week%201%20-%20ISO%20IEC%2027037-2012.pdf)
-- [Week 2 - Digital evidence Unaddressed threats to fairness.pdf](./Digital%20Forensics/Week%202%20-%20Digital%20evidence%20Unaddressed%20threats%20to%20fairness.pdf)
 
 ## Entrepreneurship
 
@@ -102,7 +100,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-06-26 17:14:09 GMT_
+_Last Updated on 2025-06-26 21:24:48 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
