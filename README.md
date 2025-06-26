@@ -53,6 +53,7 @@ This repository contains all course files, including lectures and resources.
 - [Lecture 9 - Research Topics in digital forensics.pdf](./Digital%20Forensics/Lecture%209%20-%20Research%20Topics%20in%20digital%20forensics.pdf)
 - [Lecture 10 - Smart Devices Forensics.pdf](./Digital%20Forensics/Lecture%2010%20-%20Smart%20Devices%20Forensics.pdf)
 - [Lecture 11 - Social Media Forensic.pdf](./Digital%20Forensics/Lecture%2011%20-%20Social%20Media%20Forensic.pdf)
+- [Paper Pattern.docx](./Digital%20Forensics/Paper%20Pattern.docx)
 - [Registry Hives.docx](./Digital%20Forensics/Registry%20Hives.docx)
 
 ## Entrepreneurship
@@ -100,7 +101,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-06-26 21:24:48 GMT_
+_Last Updated on 2025-06-26 22:21:42 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
