@@ -65,16 +65,16 @@ This repository contains all course files, including lectures and resources.
 - [Opium Poppy - Pitch.pdf](./Entrepreneurship/Opium%20Poppy%20-%20Pitch.pdf)
 - [Opium Poppy - Report.pdf](./Entrepreneurship/Opium%20Poppy%20-%20Report.pdf)
 
-## Entrepreneurship/Course
+## Entrepreneurship/Mids
 
-- [A - Entrepreneurship Foundations.pdf](./Entrepreneurship/Course/A%20-%20Entrepreneurship%20Foundations.pdf)
-- [B - The Individual Entrepreneur.pdf](./Entrepreneurship/Course/B%20-%20The%20Individual%20Entrepreneur.pdf)
-- [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/Course/C1%20-%204%20Dimensions%20of%20Magic.pdf)
-- [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/Course/C%20-International%20Entrepreneurship%20Opportunities.pdf)
-- [Entrepreneurial Entry Strategies Pakistan Examples (2).pdf](./Entrepreneurship/Course/Entrepreneurial%20Entry%20Strategies%20Pakistan%20Examples%20%282%29.pdf)
-- [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Course/Entrepreneurial%20Entry%20Strategies.pdf)
-- [Notes.pdf](./Entrepreneurship/Course/Notes.pdf)
-- [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Course/Project%20Guidelines%20-%20Spring%2025.pdf)
+- [A - Entrepreneurship Foundations.pdf](./Entrepreneurship/Mids/A%20-%20Entrepreneurship%20Foundations.pdf)
+- [B - The Individual Entrepreneur.pdf](./Entrepreneurship/Mids/B%20-%20The%20Individual%20Entrepreneur.pdf)
+- [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/Mids/C1%20-%204%20Dimensions%20of%20Magic.pdf)
+- [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/Mids/C%20-International%20Entrepreneurship%20Opportunities.pdf)
+- [Entrepreneurial Entry Strategies Pakistan Examples (2).pdf](./Entrepreneurship/Mids/Entrepreneurial%20Entry%20Strategies%20Pakistan%20Examples%20%282%29.pdf)
+- [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Mids/Entrepreneurial%20Entry%20Strategies.pdf)
+- [Notes.pdf](./Entrepreneurship/Mids/Notes.pdf)
+- [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Mids/Project%20Guidelines%20-%20Spring%2025.pdf)
 
 ## Iot
 
@@ -110,7 +110,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-06-29 19:13:18 GMT_
+_Last Updated on 2025-06-29 21:29:41 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
