@@ -59,14 +59,22 @@ This repository contains all course files, including lectures and resources.
 
 ## Entrepreneurship
 
-- [A - Entrepreneurship Foundations.pdf](./Entrepreneurship/A%20-%20Entrepreneurship%20Foundations.pdf)
-- [B - The Individual Entrepreneur.pdf](./Entrepreneurship/B%20-%20The%20Individual%20Entrepreneur.pdf)
-- [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/C1%20-%204%20Dimensions%20of%20Magic.pdf)
-- [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/C%20-International%20Entrepreneurship%20Opportunities.pdf)
-- [Entrepreneurial Entry Strategies Pakistan Examples (2).pdf](./Entrepreneurship/Entrepreneurial%20Entry%20Strategies%20Pakistan%20Examples%20%282%29.pdf)
-- [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Entrepreneurial%20Entry%20Strategies.pdf)
-- [Notes.pdf](./Entrepreneurship/Notes.pdf)
-- [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Project%20Guidelines%20-%20Spring%2025.pdf)
+- [Entrepreneurship Basics.pdf](./Entrepreneurship/Entrepreneurship%20Basics.pdf)
+- [Entrepreneurship Exam Guide.pdf](./Entrepreneurship/Entrepreneurship%20Exam%20Guide.pdf)
+- [Entrepreneurship Project Prep.pdf](./Entrepreneurship/Entrepreneurship%20Project%20Prep.pdf)
+- [Opium Poppy - Pitch.pdf](./Entrepreneurship/Opium%20Poppy%20-%20Pitch.pdf)
+- [Opium Poppy - Report.pdf](./Entrepreneurship/Opium%20Poppy%20-%20Report.pdf)
+
+## Entrepreneurship/Course
+
+- [A - Entrepreneurship Foundations.pdf](./Entrepreneurship/Course/A%20-%20Entrepreneurship%20Foundations.pdf)
+- [B - The Individual Entrepreneur.pdf](./Entrepreneurship/Course/B%20-%20The%20Individual%20Entrepreneur.pdf)
+- [C1 - 4 Dimensions of Magic.pdf](./Entrepreneurship/Course/C1%20-%204%20Dimensions%20of%20Magic.pdf)
+- [C -International Entrepreneurship Opportunities.pdf](./Entrepreneurship/Course/C%20-International%20Entrepreneurship%20Opportunities.pdf)
+- [Entrepreneurial Entry Strategies Pakistan Examples (2).pdf](./Entrepreneurship/Course/Entrepreneurial%20Entry%20Strategies%20Pakistan%20Examples%20%282%29.pdf)
+- [Entrepreneurial Entry Strategies.pdf](./Entrepreneurship/Course/Entrepreneurial%20Entry%20Strategies.pdf)
+- [Notes.pdf](./Entrepreneurship/Course/Notes.pdf)
+- [Project Guidelines - Spring 25.pdf](./Entrepreneurship/Course/Project%20Guidelines%20-%20Spring%2025.pdf)
 
 ## Iot
 
@@ -102,7 +110,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-06-29 19:11:33 GMT_
+_Last Updated on 2025-06-29 19:13:18 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
