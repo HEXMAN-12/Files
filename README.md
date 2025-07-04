@@ -2,6 +2,10 @@
 
 This repository contains all course files, including lectures and resources.
 
+## Apk Analysis
+
+- [AndroidTV - APK Analysis Report.pdf](./APK%20Analysis/AndroidTV%20-%20APK%20Analysis%20Report.pdf)
+
 ## Artificial Intelligence
 
 - [AI Week 1 Notes.pdf](./Artificial%20Intelligence/AI%20Week%201%20Notes.pdf)
@@ -110,7 +114,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-06-29 21:29:41 GMT_
+_Last Updated on 2025-07-04 06:09:54 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
