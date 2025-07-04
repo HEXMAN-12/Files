@@ -110,7 +110,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-_Last Updated on 2025-07-04 09:15:33 GMT_
+_Last Updated on 2025-07-04 09:15:55 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
