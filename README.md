@@ -1,10 +1,3 @@
-# Parhai
-
-This repository contains all course files, including lectures and resources.
-
-## Apk Analysis
-
-- [AndroidTV - APK Analysis Report.pdf](./APK%20Analysis/AndroidTV%20-%20APK%20Analysis%20Report.pdf)
 
 ## Artificial Intelligence
 
