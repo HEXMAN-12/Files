@@ -110,12 +110,7 @@ This repository contains all course files, including lectures and resources.
 - [VARE Notes Additional.pdf](./VARE/VARE%20Notes%20Additional.pdf)
 - [VARE Notes.pdf](./VARE/VARE%20Notes.pdf)
 
-## Temp
-
-- [Passport size sabih.png](./temp/Passport%20size%20sabih.png)
-- [souban.jpg](./temp/souban.jpg)
-
-_Last Updated on 2025-08-18 09:04:01 GMT_
+_Last Updated on 2025-08-26 17:11:52 GMT_
 
 
 Click here to view [Date Sheet](Date-Sheet.jpg)
