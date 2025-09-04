@@ -36,7 +36,7 @@ def generate_readme():
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(f"# {repo_name}\n\n")
-        f.write("This repository contains all course files, including lectures and resources.\n\n")
+        f.write("This repository contains public files and resources.\n\n")
 
         for folder, files in sorted(file_index.items()):
             f.write(f"## {folder.replace('-', ' ').title()}\n\n")
